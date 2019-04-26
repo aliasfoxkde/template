@@ -8,7 +8,8 @@ else is free to use it or the idea, hense using the MIT License. I thought it wa
 
 I'm planning on testing out the repo as is and doing a slight redesign to my other projects to work with it. I
 will be working on an update script that can grab from this repo rather than doing a complete override of files in
-a project, that way certain files can be excluded if they exist, such as the README.md file, LICENSE and etc.
+a project, that way certain files can be excluded if they exist, such as the README.md file, LICENSE and etc. With
+this, the project not only works for creating a new repository, but also can update the files of an existing one.
 
 Best!
 
