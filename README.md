@@ -6,7 +6,9 @@ basically, this is a repository designed to save overall development time. Maybe
 it adds up and maintaining things on scale can become cumbersome. This repository seeks to improve that and anyone
 else is free to use it or the idea, hense using the MIT License. I thought it was clever and useful.
 
-I'm planning on testing out the repo as is and doing a slight redesign to my other projects to work with it.
+I'm planning on testing out the repo as is and doing a slight redesign to my other projects to work with it. I
+will be working on an update script that can grab from this repo rather than doing a complete override of files in
+a project, that way certain files can be excluded if they exist, such as the README.md file, LICENSE and etc.
 
 Best!
 
