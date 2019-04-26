@@ -1,0 +1,2 @@
+# template
+A "Template" repository containing the tools and scripts I use on a regular basis for other repositories, so that the files can be updated and maintained in one place and an "update" script can keep the others up-to-date. Additionally, this "Template" contains the starter files and structure for a standard project. So basically, this is a repository designed to save overall development time (maybe not a lot but it adds up).
