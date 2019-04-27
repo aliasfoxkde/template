@@ -11,6 +11,11 @@ will be working on an update script that can grab from this repo rather than doi
 a project, that way certain files can be excluded if they exist, such as the README.md file, LICENSE and etc. With
 this, the project not only works for creating a new repository, but also can update the files of an existing one.
 
+DISCLAIMER: Use these files, scripts, and the like at your own risk. There is the potential to loose data and over-
+write existing data. However, just make sure to push all your important files to the repository first and recover
+is possible, as well as a comparision of files before and after. Just keep in mind that this is a work in progress
+and is completely experimental in nature (and therefor bound to have issues).
+
 Best!
 
 
